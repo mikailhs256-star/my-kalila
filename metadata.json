@@ -1,0 +1,8 @@
+{
+  "name": "Asisten untuk Kalila",
+  "description": "Kalkulator dan pelacak siklus menstruasi ala Flo dengan deteksi dini fisiologis berbasis Forward Chaining dan Certainty Factor tervalidasi medis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
